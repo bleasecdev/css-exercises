@@ -1,0 +1,21 @@
+.first-class{
+    background-color: #ff000080;
+    font-family: 'Verdana', 'DejaVu Sans'; sans-serif;
+
+}
+
+p {
+    background-color: #ff000080;
+    font-family: 'Verdana', 'DejaVu Sans'; sans-serif;
+}
+
+#number2{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#newid{
+   background-color: #00ff0080; 
+   font-size: 24px;
+   font-weight: bold;
+}

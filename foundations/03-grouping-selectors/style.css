@@ -1,0 +1,14 @@
+.love, 
+.love2 {
+    font-size: 28px;
+    font-family: 'Helevetica', 'TImes New Roman', sans-serif;
+}
+
+.love {
+    background-color: black;
+    color: white;
+}
+
+.love2 {
+    background-color: yellow;
+}
